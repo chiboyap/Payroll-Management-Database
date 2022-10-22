@@ -1,0 +1,8 @@
+# Missing the transaction file 
+
+How to run:
+Make sure to import the appropriate libraries (pymysql and configparser) for python otherwise will not run!
+Finally in the config file be sure to enter your SQL password.
+Navigate to wherever you have this folder, testdb saved using terminal
+Once you are in the appropriate directory type into terminal:python3 user_interface.py
+Enjoy!
